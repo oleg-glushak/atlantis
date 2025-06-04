@@ -9,7 +9,7 @@ Accepted
 ## Context
 
 We need to record the architectural decisions made for Atlantis. The project is a very decentralized project. It suffers from frequent one-timer contributors and an ever-changing team of maintainers.
-By utilizing the ADR process, we can improve who decisions are made and bring transparency to past decisions to assist future contributors and maintainers to confidently steer the project.
+By utilizing the ADR process, we can improve how decisions are made and bring transparency to past decisions to assist future contributors and maintainers to confidently steer the project.
 
 ## Decision
 
